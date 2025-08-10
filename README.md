@@ -25,3 +25,10 @@ git commit -m "メッセージを書くところ"
 ```
 git push origin head
 ```
+
+##  アーキテクチャー
+フレームワーク: Nuxt.js
+言語: Vue.js
+CSS: tailwind.css
+
+基本的にCSSはtailwind、UIはNuxtUIを使って開発する
